@@ -1,1 +1,1 @@
-
+As part of this jupyter notebook, I have tried training models to classify the Tweet as a disaster tweet or a non disaster Tweet. The dataset for this has been used from Kaggle (https://www.kaggle.com/competitions/nlp-getting-started).
